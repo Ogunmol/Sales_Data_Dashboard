@@ -16,5 +16,5 @@ The dashboard is built with Power BI ensuring easy navigation and responsive des
  This repository contains the Power BI report file (`.pbix` format) that you can download and open in Power BI Desktop to explore the interactive dashboard.
 
 To view the report:
-1. Download the `.pbix` file from [this link](path/to/your/file).
+1. Download the `.pbix` file.
 2. Open it using Power BI Desktop.
