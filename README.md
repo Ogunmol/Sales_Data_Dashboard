@@ -10,3 +10,5 @@ The Sales Data Dashboard provides an interactive and visual analysis of key sale
 **Product Performance Breakdown:** Visualize sales performance by city.
 
 **Interactive Visualizations**: Filter and drill down data through interactive charts and graphs to explore detailed insights.
+
+The dashboard is built with Power BI ensuring easy navigation and responsive design for both desktop and mobile users. It empowers stakeholders to make data-driven decisions by presenting actionable insights and trends.
